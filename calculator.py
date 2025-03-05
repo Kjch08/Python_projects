@@ -57,4 +57,4 @@ btn_equal.grid(row=4,column=3)
 root.mainloop()
 
 
-#learned from ashwini gupta tutorials
+
